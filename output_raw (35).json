@@ -1,0 +1,33 @@
+{
+  "modelunits": "Millimeters",
+  "dataversion": 7,
+  "algo": "",
+  "filename": null,
+  "pointer": "md5_8E31A9116B1398DA74B3CFEAF35EE00A",
+  "cachesolve": false,
+  "values": [
+    {
+      "ParamName": "crvInt",
+      "InnerTree": {
+        "{0;0}": [
+          {
+            "type": "Rhino.Geometry.PolylineCurve",
+            "data": "{\"version\":10000,\"archive3dm\":70,\"opennurbs\":-1872981175,\"data\":\"+n8CAAkBAAAAAAAA+/8CABQAAAAAAAAA5tTXTkfp0xG/5QAQgwEi8E6cu9v8/wIA0QAAAAAAAAAQBgAAAEQKhUcSRGxAAAAAAACIk0AAAAAAAAAAAAAAAAAAiJNAAAAAAACIk0AAAAAAAAAAAAAAAAAAiJNAAAAAAACIk0AAAAAAAACJwEYKhUcSRGxAAAAAAACIk0AAAAAAAACJwEgKhUcSRGxAAAAAAACIk0AAAAAAAAAAAEgKhUcSRGxAAAAAAACIk8AAAAAAAAAAAAYAAAAAAAAAAAAAAG+9Hm77/o9AuF4Pt31/nEC4Xg+3fT+mQLheD7d9f6xAXK+H274DuEADAAAAcBE3Rf9/AoAAAAAAAAAAAA==\"}"
+          },
+          {
+            "type": "Rhino.Geometry.PolylineCurve",
+            "data": "{\"version\":10000,\"archive3dm\":70,\"opennurbs\":-1872981175,\"data\":\"+n8CAAkBAAAAAAAA+/8CABQAAAAAAAAA5tTXTkfp0xG/5QAQgwEi8E6cu9v8/wIA0QAAAAAAAAAQBgAAAFAKhUcSRGxAAAAAAACIk8AAAAAAAACJwAAAAAAAiJNAAAAAAACIk8AAAAAAAACJwAAAAAAAiJNAAAAAAACIk8AAAAAAAAAAAEwKhUcSRGxAAAAAAACIk8AAAAAAAAAAAEgKhUcSRGxAAAAAAACIk8AAAAAAAACJwEgKhUcSRGxAAAAAAACIk0AAAAAAAACJwAYAAAAAAAAAAAAAAGy9Hm77/o9Atl4Pt31/nEC2Xg+3fT+mQLZeD7d9f6xAW6+H274DuEADAAAAVaNt+f9/AoAAAAAAAAAAAA==\"}"
+          },
+          {
+            "type": "Rhino.Geometry.PolylineCurve",
+            "data": "{\"version\":10000,\"archive3dm\":70,\"opennurbs\":-1872981175,\"data\":\"+n8CAIkAAAAAAAAA+/8CABQAAAAAAAAA5tTXTkfp0xG/5QAQgwEi8E6cu9v8/wIAUQAAAAAAAAAQAgAAAAAAAAAAiJNAAAAAAACIk0AAAAAAAACJwAAAAAAAiJNAAAAAAACIk8AAAAAAAACJwAIAAAAAAAAAAAAAAAAAAAAAiKNAAwAAAKBANob/fwKAAAAAAAAAAAA=\"}"
+          },
+          {
+            "type": "Rhino.Geometry.PolylineCurve",
+            "data": "{\"version\":10000,\"archive3dm\":70,\"opennurbs\":-1872981175,\"data\":\"+n8CAIkAAAAAAAAA+/8CABQAAAAAAAAA5tTXTkfp0xG/5QAQgwEi8E6cu9v8/wIAUQAAAAAAAAAQAgAAAAAAAAAAiJNAAAAAAACIk8AAAAAAAAAAAAAAAAAAiJNAAAAAAACIk0AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAiKNAAwAAANd7YC7/fwKAAAAAAAAAAAA=\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
